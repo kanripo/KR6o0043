@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:41.690927
+#+DATE: 2015-08-30 20:59:42.908122
 #+TITLE: 提婆菩薩破楞伽經中外道小乘四宗論
 #+PROPERTY: CBETA_ID T32n1639
 #+PROPERTY: ID KR6o0043
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1639
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0043_T_000-0155a>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0043_T_001-0155a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1639¶
-
- 《提婆菩薩破楞伽經中外道小乘¶
+No. 1639¶
+《提婆菩薩破楞伽經中外道小乘¶
 四宗論》¶
 ¶
 提波菩薩造¶
