@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:42.306493
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 提婆菩薩破楞伽經中外道小乘四宗論
 #+PROPERTY: CBETA_ID T32n1639
 #+PROPERTY: ID KR6o0043
